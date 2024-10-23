@@ -1,7 +1,8 @@
 # How To Run BOOM
+
 # Run In Termux
 
-git clone https://github.com/monifire999/free
+git clone https://github.com/AngXGM/BOOM
 
 cd free
 
