@@ -2,7 +2,7 @@
 
 # Run In Termux
 
-git clone https://github.com/AngXGM/BOOM
+git clone https://github.com/AngXGM/boom
 
 cd boom
 
