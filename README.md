@@ -4,7 +4,7 @@
 
 git clone https://github.com/AngXGM/BOOM
 
-cd free
+cd boom
 
 ls
 
